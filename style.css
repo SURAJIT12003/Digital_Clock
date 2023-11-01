@@ -1,0 +1,40 @@
+
+
+* {
+    background-color: rgb(0, 0, 0);
+}
+
+.box {
+    margin: auto;
+    height: 200px;
+    width: 700px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 150px;
+    border-radius: 20px;
+    transition:  box-shadow 3s;
+    transition-duration: 2s;
+   
+  
+}
+
+.time {
+    display: flex;
+    position: relative;
+    top: 37px;
+    left: 5px;
+    font-size: 120px;
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(241, 241, 241);
+    background-color: rgb(0, 0, 0);
+    display: inline;
+
+}
+
+.text{
+    color: white;
+    position: relative;
+    top: 320px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: large;
+}
